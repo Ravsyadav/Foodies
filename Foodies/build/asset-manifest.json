@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a088800e.chunk.css",
+    "main.js": "/static/js/main.ab7df2b1.chunk.js",
+    "main.js.map": "/static/js/main.ab7df2b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee272697.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee272697.js.map",
+    "static/css/2.9082872e.chunk.css": "/static/css/2.9082872e.chunk.css",
+    "static/js/2.eb32d709.chunk.js": "/static/js/2.eb32d709.chunk.js",
+    "static/js/2.eb32d709.chunk.js.map": "/static/js/2.eb32d709.chunk.js.map",
+    "static/js/3.1587ea8e.chunk.js": "/static/js/3.1587ea8e.chunk.js",
+    "static/js/3.1587ea8e.chunk.js.map": "/static/js/3.1587ea8e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.a088800e.chunk.css.map": "/static/css/main.a088800e.chunk.css.map",
+    "static/js/2.eb32d709.chunk.js.LICENSE.txt": "/static/js/2.eb32d709.chunk.js.LICENSE.txt",
+    "static/media/beverages.jpg": "/static/media/beverages.7cbca888.jpg",
+    "static/media/breakfast.jpg": "/static/media/breakfast.ff884c52.jpg",
+    "static/media/dinner.png": "/static/media/dinner.b61a3e92.png",
+    "static/media/drinks.png": "/static/media/drinks.5e906fc3.png",
+    "static/media/food.jpg": "/static/media/food.a011f6c3.jpg",
+    "static/media/homepageimg.png": "/static/media/homepageimg.bd3be7c4.png",
+    "static/media/icecream.jpg": "/static/media/icecream.a2da23ea.jpg",
+    "static/media/image.png": "/static/media/image.9e76a3d8.png",
+    "static/media/img1.jpg": "/static/media/img1.664c6099.jpg",
+    "static/media/img2.jpg": "/static/media/img2.077ebb0d.jpg",
+    "static/media/img3.jpg": "/static/media/img3.25044fb8.jpg",
+    "static/media/logo.png": "/static/media/logo.6ccb8e4f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/lunch.jpg": "/static/media/lunch.594b4bf2.jpg",
+    "static/media/nightlife.png": "/static/media/nightlife.04914610.png",
+    "static/media/snacks.png": "/static/media/snacks.a81da127.png",
+    "static/media/snacks.jpg": "/static/media/snacks.d92530b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee272697.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.eb32d709.chunk.js",
+    "static/css/main.a088800e.chunk.css",
+    "static/js/main.ab7df2b1.chunk.js"
+  ]
+}

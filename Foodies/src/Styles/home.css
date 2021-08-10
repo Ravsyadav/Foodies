@@ -1,0 +1,135 @@
+.homeImage {
+    width: 100%;
+    height: 450px;
+    margin: auto;
+}
+
+.imageText {
+    position: absolute;
+    top: 160px;
+    text-align: center;
+    width: 100%;
+}
+
+.homelogo {
+    width: 99px;
+    height: 99px;
+    border-radius: 50%;
+    position:absolute;
+    left:705px;
+    bottom: 1px;
+    margin: auto;
+}
+
+.headerText {
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    color: white;
+    text-align: center;
+    position:absolute;
+    left:375px;
+}
+
+.locationOptions {
+    position: absolute;
+    top: 320px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+.locationDropDown {
+    width: 232px;
+    height: 40px;
+    background-color: white;
+    padding-left: 15px;
+    border: none;
+}
+
+.restaurantSearch {
+    width: 469px;
+    height: 40px;
+    background-color: white;
+    padding-left: 15px;
+    border: none;
+    margin-left: 15px;
+}
+.location-wrapper {
+    margin-bottom: 15px;
+}
+    
+.quickSearchOptions {
+    margin: 30px;
+}
+
+.quickSearchHeader {
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.quickSearchSubHeader {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+.quickSearchBox {
+    height: 160px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: white;
+    /* margin: 10px; */
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.quickSearchDesc {
+    position: absolute;
+    top: 20px;
+    width: 120px;
+    left: 190px;
+}
+
+.quickSearchDesc > h3 {
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.quickSearchDesc > p {
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}

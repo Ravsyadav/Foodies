@@ -1,0 +1,51 @@
+.suggestionsBox {
+    max-height: 60rem;
+    border-radius: 0.8rem;
+    position: absolute;
+    overflow: auto;
+    left: 660px;
+    top: 45px;
+    width: 480px;
+    visibility: visible;
+    opacity: 1;
+    border: 1px solid rgb(207, 207, 207);
+    box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    transition: opacity 0.25s ease 0s, top 0.25s ease 0s;
+    padding: 15px 0px;
+    background: white;
+    z-index: 100000;
+}
+
+.suggestionsBox li {
+    display: flex;
+    position: relative;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    box-shadow: none;
+}
+
+.suggestionsBox li:hover {
+    background: lightgray;
+    cursor: pointer;
+}
+
+.suggestionsBox li .suggestionImage img {
+    height: 60px;
+    width: 60px;
+    transform: none;
+    opacity: 1;
+    will-change: transform, opacity;
+    border-radius: 5px;
+    filter: unset;
+    transition: opacity 0.25s ease 0s, transform 0.25s ease 0s;
+}
+
+.suggestionText {
+    line-height: 1.5;
+    margin: 0px;
+    color: rgb(54, 54, 54);
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    margin-left: 10px;
+}
